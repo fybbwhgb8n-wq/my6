@@ -1,0 +1,14 @@
+RCBANet Validation Results - IRSTD-1K Dataset
+==================================================
+
+Checkpoint: ./checkpoints/irstd_best_model.pth
+Checkpoint Epoch: 414
+
+Performance Metrics:
+  Pixel Accuracy:   78.1336%
+  mIoU:             66.0906%
+  F1 Score:         79.5838%
+  Precision:        81.0888%
+  Recall:           78.1336%
+  PD:               89.4558%
+  FA:               9.1097 × 10^-6

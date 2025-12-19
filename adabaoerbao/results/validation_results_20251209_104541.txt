@@ -1,0 +1,22 @@
+============================================================
+RCBANet Validation Results - IRSTD-1K Dataset
+============================================================
+
+Checkpoint: ./checkpoints/best_model.pth
+Dataset: IRSTD-1k
+Image Size: (256, 256)
+Threshold: 0.5
+Test Samples: 201
+
+----------------------------------------
+Metric                           Value
+----------------------------------------
+Pixel Accuracy                78.6306%
+mIoU                          63.6994%
+nIoU                          60.2039%
+F1 Score                      77.8248%
+Precision                     77.0354%
+Recall                        78.6306%
+PD (Prob. Detection)          90.4762%
+FA (False Alarm)          15.638361×10⁻⁶
+----------------------------------------
